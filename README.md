@@ -57,17 +57,6 @@ Make sure you have the following dependencies installed:
     Scikit-Learn
     Matplotlib
     Pickle<a name="material"></a>
-### Additional Material
-
-In the notebooks folder, you can find a Jupyter notebook:
-
-1. **Recommendations_with_IBM**: This notebook provides detailed information about the implemented ETL pipeline and the recommendation systems.
-
-<a name="importantfiles"></a>
-### Important Files
-
-**project_tests.py**: 
-
 
 
 <a name="setting-enviroment"></a>
